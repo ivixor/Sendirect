@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\Documents\GitHub\Sendirect\app\build\intermediates\pre-dexed\debug\joda-time-2.6-dac5532f9fb0d50f2a988352f028cad67aacd07b.jar"
+        jar="D:\Documents\GitHub\Sendirect\joda-time-2.6\joda-time-2.6.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5015880733b0bc0ce813a3ed5601064c1d413671"/>
+    <item
+        dex="D:\Documents\GitHub\Sendirect\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0-8a3088bca6fd370195f4c1a68f57e602110d99fb.jar"
+        jar="D:\Documents\GitHub\Sendirect\achartengine-1.1.0\achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250"/>
+
+</pre-dex-items>

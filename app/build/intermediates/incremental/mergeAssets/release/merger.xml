@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Documents\GitHub\SendDirect\app\src\main\assets"><file name="sample_file.txt" path="D:\Documents\GitHub\SendDirect\app\src\main\assets\sample_file.txt"/></source></dataSet><dataSet config="release"><source path="D:\Documents\GitHub\SendDirect\app\src\release\assets"/></dataSet></merger>

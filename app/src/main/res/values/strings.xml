@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="period_array">
+        <item>Overall</item>
+        <item>24 hours</item>
+        <item>7 days</item>
+        <item>1 month</item>
+        <item>3 months</item>
+        <item>6 month</item>
+        <item>1 year</item>
+    </string-array>
+
+    <string-array name="data_type_array">
+        <item>Received</item>
+        <item>Transmitted</item>
+    </string-array>
+
+    <string-array name="diagram_type_array">
+        <item>Plot</item>
+        <item>Bar</item>
+        <item>Pie</item>
+    </string-array>
+
+    <string-array name="visual_type_array">
+        <item>Kilobytes</item>
+        <item>Megabytes</item>
+        <item>Gigabytes</item>
+    </string-array>
+
+    <string name="app_name">Sendirect</string>
+    <string name="enable_p2p_button">P2P On/Off</string>
+    <string name="discover_peers_button">Discover</string>
+    <string name="file_explorer_button">File Explorer</string>
+    <string name="statistics_activity">Statistics</string>
+    <string name="connect_peer_button">Connect</string>
+    <string name="disconnect_peer_button">Disconnect</string>
+    <string name="receive_data">Receive</string>
+    <string name="stop_receiving">Stop</string>
+    <string name="get_files_button">Send...</string>
+    <string name="empty"></string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="client_text">This device will act as a client. Click on \"Send...\" button to choose files</string>
+    <string name="empty_message">No devices found. Turn on P2P and perform discovery from the Action Bar</string>
+    <string name="p2p_off_warning">Enable P2P from action bar button above or system settings</string>
+    <string name="group_owner_text">"Group Owner: "</string>
+    <string name="label_me">ME</string>
+    <string name="label_peers">DEVICES</string>
+    <string name="send_files">Send</string>
+    <string name="up_button">Home</string>
+    <string name="build_plot_button">Plot diagram</string>
+    <string name="build_bar_button">Bar diagram</string>
+    <string name="period_tv">Period</string>
+    <string name="diagram_type">Diagram type</string>
+    <string name="data_type_tv">Data type</string>
+    <string name="visual_type">Visual type</string>
+    <string name="ok_btn">OK</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="save_image_btn">Save image</string>
+</resources>

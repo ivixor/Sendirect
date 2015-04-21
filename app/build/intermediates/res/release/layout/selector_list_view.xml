@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/arrayList"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:textFilterEnabled="true"
+    android:scrollbars="vertical"
+    android:drawSelectorOnTop="true">
+</ListView><!-- From: file:/D:/Documents/GitHub/SendDirect/app/src/main/res/layout/selector_list_view.xml -->
