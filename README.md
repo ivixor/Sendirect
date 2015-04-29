@@ -8,6 +8,9 @@ Supports multiple file transfer.
 
 Group owner device acts as server.
 
+
+My diploma project for Master's Degree.
+
 # Tools
 
 Uses AChartEngine library for building plots and diagrams.
